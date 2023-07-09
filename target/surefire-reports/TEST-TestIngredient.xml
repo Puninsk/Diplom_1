@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="20" failures="0" name="TestIngredient" time="0.005" errors="0" skipped="0">
+<testsuite tests="20" failures="0" name="TestIngredient" time="0.008" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -68,22 +68,22 @@
   </properties>
   <testcase classname="TestIngredient" name="getNameEmptyNegative[0]" time="0.001"/>
   <testcase classname="TestIngredient" name="getTypeIngredient[0]" time="0"/>
-  <testcase classname="TestIngredient" name="getPriceIngredient[0]" time="0"/>
+  <testcase classname="TestIngredient" name="getPriceIngredient[0]" time="0.001"/>
   <testcase classname="TestIngredient" name="getPriceNegative[0]" time="0"/>
   <testcase classname="TestIngredient" name="getNameIngredient[0]" time="0"/>
   <testcase classname="TestIngredient" name="getNameEmptyNegative[1]" time="0"/>
   <testcase classname="TestIngredient" name="getTypeIngredient[1]" time="0"/>
-  <testcase classname="TestIngredient" name="getPriceIngredient[1]" time="0"/>
+  <testcase classname="TestIngredient" name="getPriceIngredient[1]" time="0.001"/>
   <testcase classname="TestIngredient" name="getPriceNegative[1]" time="0"/>
   <testcase classname="TestIngredient" name="getNameIngredient[1]" time="0"/>
-  <testcase classname="TestIngredient" name="getNameEmptyNegative[2]" time="0.001"/>
+  <testcase classname="TestIngredient" name="getNameEmptyNegative[2]" time="0"/>
   <testcase classname="TestIngredient" name="getTypeIngredient[2]" time="0"/>
-  <testcase classname="TestIngredient" name="getPriceIngredient[2]" time="0"/>
+  <testcase classname="TestIngredient" name="getPriceIngredient[2]" time="0.001"/>
   <testcase classname="TestIngredient" name="getPriceNegative[2]" time="0"/>
-  <testcase classname="TestIngredient" name="getNameIngredient[2]" time="0"/>
-  <testcase classname="TestIngredient" name="getNameEmptyNegative[3]" time="0.001"/>
+  <testcase classname="TestIngredient" name="getNameIngredient[2]" time="0.001"/>
+  <testcase classname="TestIngredient" name="getNameEmptyNegative[3]" time="0.002"/>
   <testcase classname="TestIngredient" name="getTypeIngredient[3]" time="0"/>
-  <testcase classname="TestIngredient" name="getPriceIngredient[3]" time="0"/>
-  <testcase classname="TestIngredient" name="getPriceNegative[3]" time="0.001"/>
-  <testcase classname="TestIngredient" name="getNameIngredient[3]" time="0.001"/>
+  <testcase classname="TestIngredient" name="getPriceIngredient[3]" time="0.001"/>
+  <testcase classname="TestIngredient" name="getPriceNegative[3]" time="0"/>
+  <testcase classname="TestIngredient" name="getNameIngredient[3]" time="0"/>
 </testsuite>
